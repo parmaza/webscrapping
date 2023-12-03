@@ -12,3 +12,4 @@ Req:
 3. Pandas library
 4. Selenium
 5. Chrome Browser
+6. openpyxl
