@@ -1,4 +1,4 @@
-# webscrapping
+# webscrapping Linkedin
 # Contoh Kasus
 
 untuk memahami teknik web scrapping dengan selenium dan python 
