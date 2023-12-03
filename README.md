@@ -11,3 +11,4 @@ Req:
 2. Jupyter Notebook
 3. Pandas library
 4. Selenium
+5. Chrome Browser
