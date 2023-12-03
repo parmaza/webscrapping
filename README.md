@@ -13,3 +13,5 @@ Req:
 4. Selenium
 5. Chrome Browser
 6. openpyxl
+
+Refensi: YT Channel Mira's Blackbox - https://www.youtube.com/@MirasBlackbox 
