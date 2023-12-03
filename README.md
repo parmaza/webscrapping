@@ -3,8 +3,8 @@
 
 untuk memahami teknik web scrapping dengan selenium dan python 
 
-Target situs: linkedin. 
-Content: Lowongan Pekerjaan.
+- Target situs: linkedin.
+- Content: Lowongan Pekerjaan.
 
 Req:
 1. Python
