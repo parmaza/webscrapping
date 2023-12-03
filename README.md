@@ -4,6 +4,7 @@
 untuk memahami teknik web scrapping dengan selenium dan python 
 
 Target situs: linkedin
+
 Content: Lowongan Pekerjaan
 
 Req:
