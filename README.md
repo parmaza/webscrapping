@@ -16,4 +16,4 @@ Requirement:
 
 Refensi: YT Channel Mira's Blackbox - https://www.youtube.com/@MirasBlackbox 
 
-Contact: mailme[bingki@hotmail.com]
+Contact: [bingki@hotmail.com]
